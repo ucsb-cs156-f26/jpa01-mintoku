@@ -1,4 +1,4 @@
-# STARTER-jpa01-mintoku
+# jpa01-mintoku
 
 
 Deployed at: http://jpa01-mintoku.dokku-05.cs.ucsb.edu/
