@@ -1,11 +1,6 @@
 # STARTER-jpa01-mintoku
 
 
-* TODO: Correct the "deployed at" link to app on Dokku (below)
-  then delete this TODO.  Replace it with 
-  a link to your running app on Dokku, e.g.
-  https://jpa01-cgaucho.dokku-14.cs.ucsb.edu
-
 Deployed at: http://jpa01-mintoku.dokku-05.cs.ucsb.edu/
 
 
