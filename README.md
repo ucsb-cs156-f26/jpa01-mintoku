@@ -1,7 +1,7 @@
 # jpa01-mintoku
 
 
-Deployed at: http://jpa01-mintoku.dokku-05.cs.ucsb.edu/
+Deployed at: https://jpa01-mintoku.dokku-05.cs.ucsb.edu/
 
 
 # About this repo
